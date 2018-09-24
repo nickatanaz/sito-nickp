@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "it"
+title = "Nickatana"
+theme = "Nicktheme"
